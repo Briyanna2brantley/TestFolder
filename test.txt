@@ -1,1 +1,2 @@
-Git into lesson part 2
+Git into lesson Part 2
+This is my edit
